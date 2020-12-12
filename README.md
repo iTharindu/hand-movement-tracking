@@ -1,5 +1,4 @@
-# hand-movement-tracking
-![project] ![research] ![Python]
+# Hand Movement Tracking
 
 ## Content
 
